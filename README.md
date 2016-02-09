@@ -4,6 +4,8 @@ In this competition, participants were asked to combine historical usage pattern
 
 For more information, see: https://www.kaggle.com/c/bike-sharing-demand
 
-![capture app](https://github.com/nicolasfguillaume/food-hackathon-2016-data/blob/master/Capture-facecook2.PNG)
+Matrix correlation of features:
+![scatter matrix](https://github.com/nicolasfguillaume/bike_sharing_demand_kaggle/blob/master/scatter-matrix-train-data.png)
 
-![capture app](https://github.com/nicolasfguillaume/food-hackathon-2016-data/blob/master/Capture-facecook2.PNG)
+Prediction vs test data (Random Forest with 50 trees)
+![prediction RF](https://github.com/nicolasfguillaume/bike_sharing_demand_kaggle/blob/master/Predicted-demand-RF50.png)
