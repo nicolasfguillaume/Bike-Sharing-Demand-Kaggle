@@ -7,7 +7,7 @@ For more information, see: https://www.kaggle.com/c/bike-sharing-demand
 Matrix correlation of features:
 ![scatter matrix](https://github.com/nicolasfguillaume/bike_sharing_demand_kaggle/blob/master/scatter-matrix-train-data.png)
 
-Prediction vs test data (Random Forest, n = 50 trees)
+Prediction of bike demand vs ground truth (Random Forest, n = 50 trees)
 ![prediction RF](https://github.com/nicolasfguillaume/bike_sharing_demand_kaggle/blob/master/Predicted-demand-RF50.png)
 
 Confusion matrix (Random Forest, n = 50 trees)
