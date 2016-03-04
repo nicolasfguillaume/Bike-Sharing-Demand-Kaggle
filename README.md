@@ -9,6 +9,3 @@ Matrix correlation of features:
 
 Prediction of bike demand vs ground truth (Random Forest, n = 50 trees)
 ![prediction RF](https://github.com/nicolasfguillaume/bike_sharing_demand_kaggle/blob/master/Predicted-demand-RF50.png)
-
-Confusion matrix (Random Forest, n = 50 trees)
-![confusion matrix](https://github.com/nicolasfguillaume/bike_sharing_demand_kaggle/blob/master/confusion-matrix-bike-kaggle-RF-50trees.png)
